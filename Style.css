@@ -1,0 +1,30 @@
+nav {
+	background-color: aliceblue;
+}
+.gradpar{
+	background-image: linear-gradient(#338BA8, #43A6C6, #67B7D1, #8AC7DB, #ADD8E6);
+}
+header{
+	background-image: url("pattern2.png");
+	background-repeat: repeat;
+	margin-top:; 
+	
+}
+a{ 
+	border-style:solid;
+	border-color: #397b37;
+	padding: 0.5em;
+	background-color:#000000;
+	color: #FFFFFF;
+}
+img{
+	box-shadow: 3px 3px;
+}
+div{
+	width:50%; 
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url()
+	background-size: cover;
+	
+}
